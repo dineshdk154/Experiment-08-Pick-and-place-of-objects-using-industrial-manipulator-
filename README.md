@@ -1,10 +1,10 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-### NAME: DINESH KUMAR M
-### REG NO: 212221220011
-### DATE :22-04-20204
-### DEPT INFORMATION TECHNOLOGY
+#  NAME: DINESH KUMAR M
+#  REG NO: 212221220011
+#  DATE :22-04-20204
+#  DEPT INFORMATION TECHNOLOGY
 
-### Aim :
+# Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
       Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
